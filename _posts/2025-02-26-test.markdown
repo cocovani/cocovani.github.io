@@ -1,5 +1,6 @@
 ---
 layout: post
 title: test post
+categories: jekyll update
 ---
 test post
